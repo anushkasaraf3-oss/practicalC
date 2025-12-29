@@ -1,5 +1,6 @@
 #include <stdio.h>
 //anushka saraf 10260//
+
 int main() {
     int n, i, j;
     printf("Enter n (middle row number): ");
